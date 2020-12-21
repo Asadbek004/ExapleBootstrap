@@ -1,0 +1,47 @@
+h1{
+    width: 450px;
+    margin-left: 100px;
+    padding-top: 50px;
+    color: black;
+}
+p{
+    width: 400px;
+    margin-left: 100px;
+    padding-top: 25px;
+}
+.gap{
+    margin-left: 100px;
+}
+.row{
+    display: flex;
+}
+.row>img{
+    width: 750px;
+    margin-top: 70px;
+}
+.instalation{
+    display: flex;
+}
+.h2{
+    margin-left: 100px;
+    padding-top: 50px;
+    color: black;
+}
+.p1{
+    font-size: 24px;
+    padding: 0;
+}
+.p2{
+    font-size: 16px;
+    width: 400px;
+}
+.card{
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 600px;
+    border-radius: none;
+}
+.card-body>.btn{
+    position: absolute;
+    margin-left: 350px;
+}
